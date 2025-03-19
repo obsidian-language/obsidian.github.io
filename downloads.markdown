@@ -39,4 +39,4 @@ To get the latest updates, follow us on:
 - **[Discord](#)**
 
 ---
-[back](/)
+[back](./)
