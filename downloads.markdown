@@ -4,28 +4,15 @@ title: Downloads
 permalink: /downloads/
 ---
 
-Welcome to the downloads page! Here you’ll find the latest releases, source code, and documentation for our projects.
-
 ## Latest Releases
 
-### Software
-- **[Obsidian v0.1.0-beta](#)** – Release Date: 2025-03-19  
-  <a href="#" class="button primary">Download (Linux)</a>  
-  <a href="#" class="button secondary">Download (Windows)</a>  
-  <a href="#" class="button secondary">Download (macOS)</a>  
-  *(Checksum: `abc123def`)*
+### Supported systems
 
-- **[Cinder v0.1.0-beta](#)** – Release Date: 2025-03-19  
-  <a href="#" class="button primary">Download (Linux)</a>  
-  <a href="#" class="button secondary">Download (Windows)</a>  
-  <a href="#" class="button secondary">Download (macOS)</a>  
-  *(Checksum: `abc123def`)*
-
-- **[Ember v0.1.0-beta](#)** – Release Date: 2025-03-19  
-  <a href="#" class="button primary">Download (Linux)</a>  
-  <a href="#" class="button secondary">Download (Windows)</a>  
-  <a href="#" class="button secondary">Download (macOS)</a>  
-  *(Checksum: `abc123def`)*
+| System       | Version           | Status |
+|:-------------|:------------------|:------ |
+| [Windows](#) | v0.1.0-beta       |✅      |
+| [Linux](#)   | v0.1.0-beta       | ✅     |
+| [MacOS](#)   | v0.1.0-beta       | ✅     |
  
 ## Source Code
 
@@ -52,4 +39,4 @@ To get the latest updates, follow us on:
 - **[Discord](#)**
 
 ---
-Looking for something else? Feel free to [contact us](/contact/)!
+[back](/)

@@ -2,15 +2,20 @@
 layout: default
 ---
 
-Obsidian is a modern, efficient, and expressive programming language designed for developers who want **powerful features with a clean and intuitive syntax**. Whether you're building high-performance applications, scripting, or experimenting, Obsidian gives you the flexibility and control you need.
+Obsidian is a modern, efficient, and expressive programming language designed for developers who want **powerful features with a clean and intuitive syntax**.
+
+Whether you're building high-performance applications, scripting, or experimenting, Obsidian gives you the flexibility and control you need.
 
 ---
 
 ## Features
 
-**Lightweight & Fast** – Optimized for performance without sacrificing readability.  
+**Lightweight & Fast** – Optimized for performance without sacrificing readability.
+
 **Strong Typing** – No need to manually specify types, but they’re there when you need them.  
+
 **Memory Safe** – Efficient memory management for robust applications.  
+
 **Minimal Syntax, Maximum Productivity** – Clean and easy-to-read code.  
 
 ---
@@ -51,8 +56,7 @@ Obsidian is an fully open-source project. Feel free to contribute.
 
 ---
 
-## Download & Resources
-- [Download the compiler](/downloads).
+## Resources
 - [Read the Documentation](#).
 - [Explore Code Examples](#).
 
