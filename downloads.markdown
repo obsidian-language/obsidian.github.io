@@ -8,11 +8,60 @@ permalink: /downloads/
 
 ### Supported systems
 
-| System       | Version           | Status |
-|:-------------|:------------------|:------ |
-| [Windows](#) | v0.1.0-beta       |✅      |
-| [Linux](#)   | v0.1.0-beta       | ✅     |
-| [MacOS](#)   | v0.1.0-beta       | ✅     |
+<table>
+  <thead>
+    <tr>
+      <th>System</th>
+      <th>Version</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <details>
+          <summary>Windows</summary>
+          <ul>
+            <li><a href="#">x86</a></li>
+            <li><a href="#">x64</a></li>
+            <li><a href="#">ARM</a></li>
+          </ul>
+        </details>
+      </td>
+      <td>v0.1.0-beta</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>
+        <details>
+          <summary>Linux</summary>
+          <ul>
+            <li><a href="#">x86</a></li>
+            <li><a href="#">x64</a></li>
+            <li><a href="#">ARM</a></li>
+            <li><a href="#">ARM64</a></li>
+            <li><a href="#">RISC-V</a></li>
+          </ul>
+        </details>
+      </td>
+      <td>v0.1.0-beta</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>
+        <details>
+          <summary>MacOS</summary>
+          <ul>
+            <li><a href="#">x64 (Intel)</a></li>
+            <li><a href="#">ARM64 (M1/M2)</a></li>
+          </ul>
+        </details>
+      </td>
+      <td>v0.1.0-beta</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
  
 ## Source Code
 
