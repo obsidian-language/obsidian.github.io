@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /
 ---
 
 Obsidian is a modern, efficient, and expressive programming language designed for developers who want **powerful features with a clean and intuitive syntax**.
