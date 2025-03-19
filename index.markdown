@@ -40,7 +40,7 @@ println(add(10, 5));
 
 Getting up and running with Obsidian is easy:
 
-1. Download the Compiler - [Get the latest version](/downloads).
+1. Download the Compiler - [Get the latest version](/downloads.markdown).
 2. Install and Set Up - [Installation guide](#).
 3. Write Your First Program – Check out the [getting started tutorial](#).
 4. Explore the Standard Library – See all the built-in functions and modules.
