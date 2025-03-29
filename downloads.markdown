@@ -23,8 +23,7 @@ permalink: /downloads/
           <summary>Windows</summary>
           <ul>
             <li><a href="#">x86</a></li>
-            <li><a href="#">x64</a></li>
-            <li><a href="#">ARM</a></li>
+            <li><a href="#">x86_64</a></li>
           </ul>
         </details>
       </td>
@@ -37,10 +36,13 @@ permalink: /downloads/
           <summary>Linux</summary>
           <ul>
             <li><a href="#">x86</a></li>
-            <li><a href="#">x64</a></li>
+            <li><a href="#">x86_64</a></li>
+            <li><a href="#">Mips</a></li>
+            <li><a href="#">Mips64</a></li>
             <li><a href="#">ARM</a></li>
             <li><a href="#">ARM64</a></li>
-            <li><a href="#">RISC-V</a></li>
+            <li><a href="#">RISC-V64</a></li>
+            <li><a href="#">PowerPC64</a></li>
           </ul>
         </details>
       </td>
@@ -52,8 +54,10 @@ permalink: /downloads/
         <details>
           <summary>MacOS</summary>
           <ul>
-            <li><a href="#">x64 (Intel)</a></li>
-            <li><a href="#">ARM64 (M1/M2)</a></li>
+            <li><a href="#">x86 (Intel)</a></li>
+            <li><a href="#">x86_64 (Intel)</a></li>
+            <li><a href="#">ARM64</a></li>
+            <li><a href="#">PowerPC64</a></li>
           </ul>
         </details>
       </td>
