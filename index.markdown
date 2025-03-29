@@ -54,7 +54,7 @@ Obsidian is an fully open-source project. Feel free to contribute.
 - **Contribute** – Check out our [GitHub Repository](#).
 - **Join the Discussion** – Connect with other developers on [Discord](#).
 - **Report Issues** – Found a bug? [Submit an issue](#).
-- **Change Log** - Check out our [Change Log](/changelog/)
+- **Change Log** - Check out our [Change Log](changelog)
 
 ---
 
